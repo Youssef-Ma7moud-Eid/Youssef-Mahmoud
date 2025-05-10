@@ -26,7 +26,7 @@
 - 💻 I'm a competitive programmer.
 - 🤓 Always learning new things.
 - ❤ Contributing to Open Source.
-- 🤔 I’m currently open for : `An Student`.
+- 🤔 I’m currently open for : `An intern`.
 <br><br>
 
 <!-- Views -->
